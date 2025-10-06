@@ -5,7 +5,7 @@ Aplikasi ini memanfaatkan konsep **e-commerce** sederhana dengan tampilan yang r
 
 ## 🖼️ Tampilan Logo Aplikasi
 
-<img src="https://github.com/Moebius0907/UTS-PBM-BABYKIT/blob/main/assets/images/logo.png?raw=true" alt="Tampilan Logo BabyKit" width="300">
+<img src="https://github.com/Moebius0907/UTS-PBM-BABYKIT/blob/main/baby_kit2/assets/images/logo.png?raw=true" alt="Tampilan Logo BabyKit" width="300">
 
 
 ## 🧩 Fitur Utama
